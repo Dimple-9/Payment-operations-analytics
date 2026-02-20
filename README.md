@@ -8,7 +8,7 @@ This project analyzes the end-to-end digital payment lifecycle and demonstrates 
   - Monitor settlement timelines and processing performance
   - Identify reconciliation exceptions
   - Provide operational insights to improve payment reliability
-  -
+  
  ## Process Flow 
   The project models the payment lifecycle from customer initiation through gateway routing, issuer bank authorization, settlement, and transaction verification. 
   
