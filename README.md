@@ -37,3 +37,6 @@ This project analyzes the end-to-end digital payment lifecycle and demonstrates 
     - Dashboard export 
     - Sample dataset
     - Project summary documentation 
+
+  ## Project Development Details
+  This project was developed as part of independent learning and professional development during 2025. 
